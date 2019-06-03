@@ -1,0 +1,3 @@
+
+print('japan is ok')
+
