@@ -1,5 +1,7 @@
 # hoge  
 ## hogehoge 
-'''python:title  
-print('hello world')  
-'''
+```python
+def f():
+    print('hello world')
+```
+
