@@ -11,4 +11,3 @@ def f():
 |:---|:---:|--:|  
 |align-left|align-center|align-right|  
 
-
